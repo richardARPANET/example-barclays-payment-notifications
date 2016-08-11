@@ -1,0 +1,1 @@
+{"live":"false","notificationItems":[{"NotificationRequestItem":{"amount":{"currency":"EUR","value":11099},"eventCode":"NOTIFICATIONTEST","eventDate":"2016-07-18T14:45:47+02:00","merchantAccountCode":"SKYTICKETSTAGE","merchantReference":"testMerchantRef1","paymentMethod":"bankTransfer_BE","pspReference":"test_NOTIFICATIONTEST_1","success":"true"}}]}

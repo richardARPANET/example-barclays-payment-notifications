@@ -1,0 +1,1 @@
+{"live":"false","notificationItems":[{"NotificationRequestItem":{"amount":{"currency":"EUR","value":0},"eventCode":"PAYOUT_THIRDPARTY","eventDate":"2016-07-18T14:45:47+02:00","merchantAccountCode":"SKYTICKETDEV","merchantReference":"testMerchantRef1","originalReference":"pspReference of the PAYOUT_THIRDPARTY","pspReference":"test_PAYOUT_THIRDPARTY","success":"true"}}]}

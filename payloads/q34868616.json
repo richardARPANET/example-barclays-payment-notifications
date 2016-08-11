@@ -1,0 +1,1 @@
+{"live":"false","notificationItems":[{"NotificationRequestItem":{"amount":{"currency":"GBP","value":9911},"eventCode":"NOTIFICATIONTEST","eventDate":"2016-07-18T14:45:47+02:00","merchantAccountCode":"SKYTICKETMOTO","merchantReference":"testMerchantRef1","paymentMethod":"sms","pspReference":"test_NOTIFICATIONTEST_2","success":"true"}}]}

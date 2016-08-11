@@ -1,0 +1,1 @@
+{"live":"false","notificationItems":[{"NotificationRequestItem":{"amount":{"currency":"EUR","value":0},"eventCode":"REPORT_AVAILABLE","eventDate":"2016-07-18T14:45:47+02:00","merchantAccountCode":"SKYTICKETWEB","merchantReference":"testMerchantRef1","pspReference":"test_REPORT_AVAILABLE","reason":"will contain the url to the report","success":"true"}}]}

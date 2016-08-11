@@ -1,0 +1,1 @@
+{"live":"false","notificationItems":[{"NotificationRequestItem":{"amount":{"currency":"EUR","value":0},"eventCode":"REFUND_WITH_DATA","eventDate":"2016-07-18T14:45:47+02:00","merchantAccountCode":"SKYTICKETMOTO","merchantReference":"testMerchantRef1","originalReference":"pspReference of the REFUND_WITH_DATA","pspReference":"test_REFUND_WITH_DATA","success":"true"}}]}

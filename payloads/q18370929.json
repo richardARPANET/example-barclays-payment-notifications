@@ -1,0 +1,1 @@
+{"live":"false","notificationItems":[{"NotificationRequestItem":{"amount":{"currency":"EUR","value":1812},"eventCode":"CAPTURE_WITH_EXTERNAL_AUTH","eventDate":"2016-07-23T19:47:47+02:00","merchantAccountCode":"SKYTICKETWEB","merchantReference":"V3OfiGSTx4vaX","paymentMethod":"mc","pspReference":"wziMbqL","success":"false"}}]}

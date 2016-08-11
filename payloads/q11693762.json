@@ -1,0 +1,1 @@
+{"live":"false","notificationItems":[{"NotificationRequestItem":{"amount":{"currency":"EUR","value":0},"eventCode":"CHARGEBACK_REVERSED","eventDate":"2016-07-18T14:45:47+02:00","merchantAccountCode":"SKYTICKETDEV","merchantReference":"testMerchantRef1","originalReference":"pspReference of the Chargeback Reversed","pspReference":"test_CHARGEBACK_REVERSED","success":"true"}}]}

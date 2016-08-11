@@ -1,0 +1,1 @@
+{"live":"false","notificationItems":[{"NotificationRequestItem":{"amount":{"currency":"EUR","value":1010},"eventCode":"ORDER_OPENED","eventDate":"2016-07-18T14:45:47+02:00","merchantAccountCode":"SKYTICKETUAT","merchantReference":"testMerchantRef1","pspReference":"test_ORDER_OPENED","success":"true"}}]}

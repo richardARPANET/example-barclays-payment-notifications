@@ -1,0 +1,1 @@
+{"live":"false","notificationItems":[{"NotificationRequestItem":{"amount":{"currency":"EUR","value":0},"eventCode":"REFUNDED_REVERSED","eventDate":"2016-07-18T14:45:47+02:00","merchantAccountCode":"SKYTICKETSTAGE","merchantReference":"testMerchantRef1","originalReference":"pspReference of the REFUNDED_REVERSED","pspReference":"test_REFUNDED_REVERSED","success":"false"}}]}
